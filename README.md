@@ -27,7 +27,11 @@ Plan:
             once button is pushed, immediately update files.
   
   Implementation Process:
+    
     1. Add
+    
     2. Update
+    
     3. Search
+    
     4. GUI Develompent
